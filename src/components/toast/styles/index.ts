@@ -1,1 +1,2 @@
-export * from "./ToasterContainer";
+export * from './ToasterContainer';
+export * from "./ToastWrapper";
